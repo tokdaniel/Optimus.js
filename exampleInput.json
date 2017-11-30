@@ -1,0 +1,14 @@
+[
+  {
+    "firstName": "Bob",
+    "lastName": "Marley",
+    "userId": 4242,
+    "email": "bob.marley@ganja.com"
+  },
+  {
+    "firstName": "Jack",
+    "lastName": "Black",
+    "userId": 4243,
+    "email": "jack.black@fatman.com"
+  }
+]

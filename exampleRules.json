@@ -1,0 +1,5 @@
+{
+  "firstName@lastName": "userName",
+  "email": "transformedEmail",
+  "userId": "transformedUserId"
+}
